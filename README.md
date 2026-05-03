@@ -6,5 +6,5 @@ Name: Benedict Luis
 Lab Partner: None
 
 ## Links
-Expose page:
+Expose page: 
 Explore page:
